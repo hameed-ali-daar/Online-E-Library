@@ -1,0 +1,13 @@
+.row.filter {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+
+.bg_image
+{
+    width:100%;
+    height:400px;
+    background:url(../images/123.jpg)
+    /* position:absolute;
+    z-index:-2; */
+}
